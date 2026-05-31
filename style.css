@@ -1,0 +1,8 @@
+body { background: #794719; margin: 0; font-family: sans-serif; }
+.storefront-container { padding: 23px; display: flex; }
+.block-cart-0 { color: #c2e482; font-size: 15px; margin-bottom: 5px; }
+.block-cart-1 { color: #e21018; font-size: 21px; margin-bottom: 5px; }
+.block-config-2 { color: #4af285; font-size: 12px; margin-bottom: 5px; }
+.block-auth-3 { color: #ae4bea; font-size: 12px; margin-bottom: 5px; }
+.block-metrics-4 { color: #d02b86; font-size: 12px; margin-bottom: 5px; }
+.block-invoice-5 { color: #277aea; font-size: 12px; margin-bottom: 5px; }
