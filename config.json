@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdetch",
+        "uuid": 13668116,
+        "checksum": "7ri2ph"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
